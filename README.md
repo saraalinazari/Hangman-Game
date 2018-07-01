@@ -1,6 +1,6 @@
 # Hangman-Game
 
-##Requirement
+## Requirement
 - Create computer games: Hangman. This app will run in the browser, and feature dynamically updated HTML and CSS powered by your JavaScript code.
 
 ## Prerequisites
@@ -17,6 +17,7 @@
 - CSS
 - Javascript
 - jQuery
+- object oriented programming
 
 ## Lesson Learned
 - How I can play a music in my application.
